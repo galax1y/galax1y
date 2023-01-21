@@ -1,42 +1,35 @@
-## Welcome!
+<div align="center">
+  
+## Welcome to my profile!
 
 Control and Automation Student @ UFRGS
 
-Studying to become a Full Stack developer 🚀🚀.
-
-Started programming in 2018 because I wanted to automate stuff.
+Studying to become a Full Stack developer 🚀🚀 Started programming in 2018 because I wanted to automate stuff.
 
 ## Languages, Tools & Techs
 
-**Comfortable** ->
-<kbd style="display: flex; align-items: center;">
-  <img width=48px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-  <img width=48px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img width=48px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  <img width=48px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img width=48px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  <img width=48px src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-  <img width=48px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-  <img width=48px src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png">
-</kbd>
+**Comfortable with**
+  
+  ![Skills](https://skillicons.dev/icons?i=js,ts,python,react,html,css,github,vscode,figma)
 
-**Basic**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;->
-<kbd>
-  <img width=48px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png">
-  <img width=48px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
-</kbd>
+**Studying now**
 
-**Studying now**->
-<kbd style="display: flex; align-items: center;">
-  <img width=48px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-  <img width=48px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-</kbd>
+  ![Studying](https://skillicons.dev/icons?i=nextjs,nodejs)
+
+**Once upon a time I fiddled with**
+  
+ ![Past](https://skillicons.dev/icons?i=java,c,arduino,bots)
+
+ [//]: # (icons: https://skillicons.dev/)
+  </div>
+  
+  ---
+  
+<div align="center">
+  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-wermann/)
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/lucasvw)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/lw1707)
 
 
----
-
-## Contact me
-
-### <code><a target="_blank" href="mailto:lucasvw.eng@gmail.com">lucasvw.eng@gmail.com</a></code>
-
-### <code><a target="_blank" href="https://www.linkedin.com/in/lucas-wermann"> LinkedIn </a></code>
+</div>
